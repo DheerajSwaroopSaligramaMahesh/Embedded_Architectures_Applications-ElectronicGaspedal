@@ -66,7 +66,7 @@ It demonstrates message-based communication between runnables, cyclic/event acti
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 Follow the steps below to build and run the project on hardware:
 
