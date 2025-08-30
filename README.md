@@ -42,6 +42,8 @@ It demonstrates message-based communication between runnables, cyclic/event acti
 
 ---
 
+![Electronic Gaspedal ECU](/ReactionGame/Images/arcadian.png)
+
 ## Setup & Usage
 1. Install [Python](https://www.python.org/downloads/) for RTE Generator.  
 2. Use the provided RTE generator tool to create `rte` sources.  
