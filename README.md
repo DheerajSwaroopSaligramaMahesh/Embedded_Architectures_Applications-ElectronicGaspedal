@@ -43,6 +43,7 @@ It demonstrates message-based communication between runnables, cyclic/event acti
 ---
 
 ![Electronic Gaspedal ECU](https://github.com/DheerajSwaroopSaligramaMahesh/Embedded_Architectures_Applications-ElectronicGaspedal/blob/main/Images/ElectronicGaspedalECU.png)
+*Figure 1: Electronic Gaspedal ECU architecture*
 
 ## Setup & Usage
 1. Install [Python](https://www.python.org/downloads/) for RTE Generator.  
@@ -66,7 +67,7 @@ It demonstrates message-based communication between runnables, cyclic/event acti
 ---
 
 ## References
-For more details on system design, iterations, and error handling, refer to the project report:  
+For more details on system design, iterations, and error handling, refer to the workbook:  
 [WorkBook](https://github.com/DheerajSwaroopSaligramaMahesh/Embedded_Architectures_Applications-ElectronicGaspedal/blob/main/Eletronic_Gaspedal_WorkBook.pdf)
 
 ---
