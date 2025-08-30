@@ -1,0 +1,6 @@
+D:\MS\HDA\Embedded\Second_sem\EAA\Assignment1\Electronic_Gaspedal\Design01.cydsn\Design01.cyprj|824416a9-41ba-44f4-a2ba-236e2162f3fd
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a74e624d-6668-40a8-8716-9bc681b330fa
+C:\Users\Dheeraj Swaroop S M\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|11f41887-3464-406a-a5cb-40a03e737f69
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0f6ea0a7-32f9-4a99-94f1-3d0067abd143
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5db7d059-4fa5-46d2-ab76-b2590936ce29
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ca6649fa-c814-4ea9-b3b1-a959df433209
